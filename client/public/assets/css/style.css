@@ -1,0 +1,119 @@
+html,body{
+	font-family: 'Roboto', sans-serif;
+}
+
+.weight-100{
+	font-weight: 100;
+}
+
+.weight-300{
+	font-weight: 300;
+}
+
+.weight-500{
+	font-weight: 500;
+}
+
+.weight-700{
+	font-weight: 700;
+}
+
+.weight-900{
+	font-weight: 900;
+}
+
+.no-margin{
+	margin: 0px !important;
+}
+
+.no-top-margin{
+	margin-top: 0px !important;
+}
+
+.no-bottom-margin{
+	margin-bottom: 0px !important;
+}
+
+.no-left-margin{
+	margin-left: 0px !important;
+}
+
+.no-right-margin{
+	margin-right: 0px !important;
+}
+
+.small-margins{
+	margin: 3px;
+}
+
+.small-top-margin{
+	margin-top: 5px !important;
+}
+
+.small-bottom-margin{
+	margin-bottom: 5px !important;
+}
+
+.small-right-margin{
+	margin-right: 5px !important;
+}
+
+.small-left-margin{
+	margin-left: 5px !important;
+}
+
+.large-margins{
+	margin: 30px !important;
+}
+
+.large-top-margin{
+	margin-top: 30px !important;
+}
+
+.large-bottom-margin{
+	margin-bottom: 30px !important;
+}
+
+.huge-bottom-margin{
+	margin-bottom: 45px !important;
+}
+
+.no-padding{
+	padding: 0px !important;
+}
+
+.no-top-padding{
+	padding-top: 0px !important;
+}
+
+.no-bottom-padding{
+	padding-bottom: 0px !important;
+}
+
+.no-left-padding{
+	padding-left: 0px !important;
+}
+
+.no-right-padding{
+	padding-right: 0px !important;
+}
+
+.clearFloat{
+	clear: both;
+}
+
+*{
+	outline: none;
+}
+
+::-webkit-scrollbar { 
+	display: none; 
+}
+
+blockquote {
+	border: none !important;
+}
+
+.indicator-item.active{
+	background-color: grey !important;
+}
